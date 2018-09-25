@@ -1,10 +1,10 @@
 package com.github.zywaiting.httputiltest;
 
 /**
- * Created by 杨文军 on 2017-07-18.
+ * Created by zy on 2018-09-25.
  *
- * @author 杨文军
- * @version 0.1-SNAPSHOT
+ * @author zy
+ * @version 0.1
  */
 public class HttpException extends RuntimeException {
 
