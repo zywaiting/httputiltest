@@ -1,4 +1,16 @@
-# httputiltest
+# httputiltest 源码：https://github.com/zywaiting/httputil
+
+项目引入包
+````
+<dependency>
+    <groupId>xin.zhuyao.httputil</groupId>
+    <artifactId>httputil</artifactId>
+    <version>0.0.1</version>
+</dependency>
+
+````
+
+
 ##get/gets(http/https)
 
 get/gets(String url) 请求路径无参数   
